@@ -1,7 +1,7 @@
 <?php
 include('../smarty/libs/Smarty.class.php');
 
-// create object
+// create objectoooooooooo
 $smarty = new Smarty;            
        if(isset($_POST['login']))
        {   
